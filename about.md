@@ -1,10 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+<img src="/images/Lars_Barkman.jpg" alt="Image Lars Barkman" style="width:226px;height:302px;">
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+**Professionally** ([LinkedIn](https://se.linkedin.com/in/larsbarkman)), a solutions architect that loves programming and solving problems. Currently I work for SAP but this blog only contains my **personal views, thoughts and opinions**. It is not endorsed by SAP nor does it constitute any official communication of SAP.
 
-This theme is made by me. You have a nice day. ♥
+**Personally**, a father of two who tries to balance a passion for his job with the love of his family.
+
+**FACTS:**  
+**Name:** Lars Barkman  
+**Born:** 1973  
+**Lives:** Vaxholm, Sweden  
+**Family:** Wife and two kids  
